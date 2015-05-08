@@ -1,1 +1,1 @@
-# Aphrodite
+# Reddit backend with Node and MongoDB
